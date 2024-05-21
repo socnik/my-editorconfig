@@ -1,0 +1,33 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    devDependencies:
+      '@socnik/my-prettier-config':
+        specifier: ^1.0.5
+        version: 1.0.5
+      prettier:
+        specifier: ^3.2.5
+        version: 3.2.5
+
+packages:
+
+  '@socnik/my-prettier-config@1.0.5':
+    resolution: {integrity: sha512-jX8BAkKasimn0uCJ/KlaD2KJsTnT1L7DsaeFKAfhZM1qzlPVDpHDM9RKiOJalJOEbNAnN65EWd4xr5m+56TWsg==}
+    engines: {node: '>=20.0.0'}
+
+  prettier@3.2.5:
+    resolution: {integrity: sha512-3/GWa9aOC0YeD7LUfvOG2NiDyhOWRvt1k+rcKhOuYnMY24iiCphgneUfJDyFXd6rZCAnuLBv6UeAULtrhT/F4A==}
+    engines: {node: '>=14'}
+    hasBin: true
+
+snapshots:
+
+  '@socnik/my-prettier-config@1.0.5': {}
+
+  prettier@3.2.5: {}

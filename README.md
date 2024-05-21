@@ -32,9 +32,9 @@ Add Editorconfig VSCode extension to workspace recommendations:
 {
   "recommendations": [
     // ...
-    "editorconfig.editorconfig"
+    "editorconfig.editorconfig",
     // ...
-  ]
+  ],
 }
 ```
 
@@ -52,12 +52,12 @@ Add Editorconfig VSCode extension to your [`Devcontainer`](https://code.visualst
     "vscode": {
       "extensions": [
         // ...
-        "editorconfig.editorconfig"
+        "editorconfig.editorconfig",
         // ...
-      ]
-    }
+      ],
+    },
     // ...
-  }
+  },
   // ...
 }
 ```

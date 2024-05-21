@@ -1,0 +1,16 @@
+{
+  "name": "my-editorconfig",
+  "author": "Nikita",
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "engines": {
+    "node": ">=20",
+    "pnpm": ">=9"
+  },
+  "devDependencies": {
+    "@socnik/my-prettier-config": "^1.0.5",
+    "prettier": "^3.2.5"
+  }
+}
