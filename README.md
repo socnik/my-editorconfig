@@ -64,7 +64,7 @@ Add Editorconfig VSCode extension to your [`Devcontainer`](https://code.visualst
 
 ### Stage 3 _(optional)_
 
-Setup Prettier with my config. If you want do it follow instruction in [socnik/my-prettier-config](https://github.com/socnik/my-prettier-config#readme) repository.
+Setup Prettier with my config. If you want to do it, follow the instructions in [socnik/my-prettier-config](https://github.com/socnik/my-prettier-config#readme) repository.
 
 ### Stage 4
 
