@@ -2,7 +2,7 @@
 
 <a href="https://editorconfig.org"><img src="https://raw.githubusercontent.com/editorconfig/editorconfig/master/assets/EditorConfig_Logo.svg" alt="Editorconfig icon" width="150" height="150" /></a>
 
-My preferred [Editorconfig](https://editorconfig.org) which i use between my projects.
+My preferred [Editorconfig](https://editorconfig.org) which I use between my projects.
 
 I recommend using this config with [my Prettier config](https://github.com/socnik/my-prettier-config). They are fully compatible between themselves.
 
@@ -15,7 +15,7 @@ This config is in the [`.editorconfig`](https://github.com/socnik/my-editorconfi
 Download Editorconfig template to your project with [`degit`](https://github.com/Rich-Harris/degit):
 
 ```shell
-npx degit socnik/my-editorconfig/.editorconfig
+npx degit socnik/my-editorconfig/.editorconfig .editorconfig
 ```
 
 ### Stage 1
